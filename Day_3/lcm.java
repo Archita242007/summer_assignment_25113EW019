@@ -21,6 +21,6 @@ public class lcm {
         int g = x;
         int l = (a * b) / g;
 
-        System.out.println("LCM = " + l);
+        System.out.println("LCM = " + l);sc.close();
     }
 }
